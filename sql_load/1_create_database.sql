@@ -1,0 +1,3 @@
+CREATE DATABASE postgresql;
+
+-- DROP DATABASE IF EXISTS sql_course;
